@@ -85,7 +85,7 @@ class RivDefaultFunction(Construct):
       description='Python container lambda function for '+self.component_name,
       timeout= self.function_timeout,
       handler='handler.function_main',
-      runtime= lambda_.Runtime.PYTHON_3_8,
+      runtime= lambda_.Runtime.PYTHON_3_10,
       tracing= lambda_.Tracing.ACTIVE,
       vpc= riv_stack.vpc,
       memory_size=512,
