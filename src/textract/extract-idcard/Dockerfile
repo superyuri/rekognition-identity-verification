@@ -1,7 +1,7 @@
 # Define function directory
 ARG FUNCTION_DIR="/var/task"
 
-FROM python:3.8 as build-image
+FROM python:3.10 as build-image
 
 # Include global arg in this stage of the build
 ARG FUNCTION_DIR
@@ -21,7 +21,7 @@ RUN pip install \
   -r ${FUNCTION_DIR}/requirements.txt
 
 # Multi-stage build: grab a fresh copy of the base image
-FROM public.ecr.aws/lambda/python:3.8
+FROM public.ecr.aws/lambda/python:3.10
 
 # Include global arg in this stage of the build
 ARG FUNCTION_DIR
