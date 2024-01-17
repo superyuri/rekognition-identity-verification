@@ -977,7 +977,7 @@
                     }
                 ],
                 "MemorySize": 512,
-                "Runtime": "python3.8",
+                "Runtime": "python3.10",
                 "Tags": [
                     {
                         "Key": "riv_stack",
@@ -1030,7 +1030,7 @@
                     "S3Key": "artifacts/rekognition-identity-verification-solution/a8f2b22803d5b1cdcb3c78709530f305b4833e0aca3ee45887778be093e60feb.zip"
                 },
                 "CompatibleRuntimes": [
-                    "python3.8"
+                    "python3.10"
                 ],
                 "Description": "Shared dependencies"
             },
@@ -1212,7 +1212,7 @@
                     }
                 ],
                 "MemorySize": 512,
-                "Runtime": "python3.8",
+                "Runtime": "python3.10",
                 "Tags": [
                     {
                         "Key": "riv_stack",
@@ -1265,7 +1265,7 @@
                     "S3Key": "artifacts/rekognition-identity-verification-solution/a8f2b22803d5b1cdcb3c78709530f305b4833e0aca3ee45887778be093e60feb.zip"
                 },
                 "CompatibleRuntimes": [
-                    "python3.8"
+                    "python3.10"
                 ],
                 "Description": "Shared dependencies"
             },
@@ -1447,7 +1447,7 @@
                     }
                 ],
                 "MemorySize": 512,
-                "Runtime": "python3.8",
+                "Runtime": "python3.10",
                 "Tags": [
                     {
                         "Key": "riv_stack",
@@ -1500,7 +1500,7 @@
                     "S3Key": "artifacts/rekognition-identity-verification-solution/a8f2b22803d5b1cdcb3c78709530f305b4833e0aca3ee45887778be093e60feb.zip"
                 },
                 "CompatibleRuntimes": [
-                    "python3.8"
+                    "python3.10"
                 ],
                 "Description": "Shared dependencies"
             },
@@ -1701,7 +1701,7 @@
                     }
                 ],
                 "MemorySize": 512,
-                "Runtime": "python3.8",
+                "Runtime": "python3.10",
                 "Tags": [
                     {
                         "Key": "riv_stack",
@@ -1754,7 +1754,7 @@
                     "S3Key": "artifacts/rekognition-identity-verification-solution/a8f2b22803d5b1cdcb3c78709530f305b4833e0aca3ee45887778be093e60feb.zip"
                 },
                 "CompatibleRuntimes": [
-                    "python3.8"
+                    "python3.10"
                 ],
                 "Description": "Shared dependencies"
             },
@@ -1936,7 +1936,7 @@
                     }
                 ],
                 "MemorySize": 512,
-                "Runtime": "python3.8",
+                "Runtime": "python3.10",
                 "Tags": [
                     {
                         "Key": "riv_stack",
@@ -1989,7 +1989,7 @@
                     "S3Key": "artifacts/rekognition-identity-verification-solution/a8f2b22803d5b1cdcb3c78709530f305b4833e0aca3ee45887778be093e60feb.zip"
                 },
                 "CompatibleRuntimes": [
-                    "python3.8"
+                    "python3.10"
                 ],
                 "Description": "Shared dependencies"
             },
@@ -2169,7 +2169,7 @@
                     }
                 ],
                 "MemorySize": 512,
-                "Runtime": "python3.8",
+                "Runtime": "python3.10",
                 "Tags": [
                     {
                         "Key": "riv_stack",
@@ -2222,7 +2222,7 @@
                     "S3Key": "artifacts/rekognition-identity-verification-solution/a8f2b22803d5b1cdcb3c78709530f305b4833e0aca3ee45887778be093e60feb.zip"
                 },
                 "CompatibleRuntimes": [
-                    "python3.8"
+                    "python3.10"
                 ],
                 "Description": "Shared dependencies"
             },
@@ -2429,7 +2429,7 @@
                     }
                 ],
                 "MemorySize": 512,
-                "Runtime": "python3.8",
+                "Runtime": "python3.10",
                 "Tags": [
                     {
                         "Key": "riv_stack",
@@ -2482,7 +2482,7 @@
                     "S3Key": "artifacts/rekognition-identity-verification-solution/a8f2b22803d5b1cdcb3c78709530f305b4833e0aca3ee45887778be093e60feb.zip"
                 },
                 "CompatibleRuntimes": [
-                    "python3.8"
+                    "python3.10"
                 ],
                 "Description": "Shared dependencies"
             },
@@ -2689,7 +2689,7 @@
                     }
                 ],
                 "MemorySize": 512,
-                "Runtime": "python3.8",
+                "Runtime": "python3.10",
                 "Tags": [
                     {
                         "Key": "riv_stack",
@@ -2742,7 +2742,7 @@
                     "S3Key": "artifacts/rekognition-identity-verification-solution/a8f2b22803d5b1cdcb3c78709530f305b4833e0aca3ee45887778be093e60feb.zip"
                 },
                 "CompatibleRuntimes": [
-                    "python3.8"
+                    "python3.10"
                 ],
                 "Description": "Shared dependencies"
             },
@@ -2922,7 +2922,7 @@
                     }
                 ],
                 "MemorySize": 512,
-                "Runtime": "python3.8",
+                "Runtime": "python3.10",
                 "Tags": [
                     {
                         "Key": "riv_stack",
@@ -2975,7 +2975,7 @@
                     "S3Key": "artifacts/rekognition-identity-verification-solution/a8f2b22803d5b1cdcb3c78709530f305b4833e0aca3ee45887778be093e60feb.zip"
                 },
                 "CompatibleRuntimes": [
-                    "python3.8"
+                    "python3.10"
                 ],
                 "Description": "Shared dependencies"
             },
@@ -3210,7 +3210,7 @@
                     }
                 ],
                 "MemorySize": 512,
-                "Runtime": "python3.8",
+                "Runtime": "python3.10",
                 "Tags": [
                     {
                         "Key": "riv_stack",
@@ -3263,7 +3263,7 @@
                     "S3Key": "artifacts/rekognition-identity-verification-solution/a8f2b22803d5b1cdcb3c78709530f305b4833e0aca3ee45887778be093e60feb.zip"
                 },
                 "CompatibleRuntimes": [
-                    "python3.8"
+                    "python3.10"
                 ],
                 "Description": "Shared dependencies"
             },
